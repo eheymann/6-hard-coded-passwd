@@ -1,0 +1,3 @@
+CWE259_Hard_Coded_Password__w32_char_01: CWE259_Hard_Coded_Password__w32_char_01.c
+	gcc -lcrypt -o CWE259_Hard_Coded_Password__w32_char_01 CWE259_Hard_Coded_Password__w32_char_01.c
+
